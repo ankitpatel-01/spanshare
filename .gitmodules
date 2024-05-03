@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ankitpatel-01/spanShare-chrom-ext.git
+[submodule "server"]
+	path = server
+	url = https://github.com/ankitpatel-01/url-shortener.git
